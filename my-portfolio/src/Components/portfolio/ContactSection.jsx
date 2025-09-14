@@ -57,7 +57,7 @@ export default function ContactSection() {
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      href: 'https://linkedin.com/in/ketanhanda',
+      href: 'https://www.linkedin.com/in/ketan-handa-62842b192/',
       color: 'text-blue-400 hover:text-blue-300'
     }
   ];
