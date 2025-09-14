@@ -51,7 +51,7 @@ export default function ContactSection() {
     {
       icon: Github,
       label: 'GitHub',
-      href: 'https://github.com/ketanhanda',
+      href: 'https://github.com/Ketan-eng',
       color: 'text-slate-400 hover:text-white'
     },
     {

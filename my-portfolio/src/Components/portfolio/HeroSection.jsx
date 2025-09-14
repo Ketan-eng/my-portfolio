@@ -95,7 +95,7 @@ export default function HeroSection() {
           className="flex justify-center gap-6"
         >
           <a
-            href="https://github.com/ketanhanda"
+            href="https://github.com/Ketan-eng"
             target="_blank"
             rel="noopener noreferrer"
             className="text-slate-400 hover:text-white transition-colors duration-200"
