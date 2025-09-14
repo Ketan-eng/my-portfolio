@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { ChevronDown, Mail, Phone, Github, Linkedin, Code2, ExternalLink, Award, Briefcase, GraduationCap, User, FileText } from 'lucide-react';
-import { Card, CardContent } from '@/Components/ui/card';
+import { Card, CardContent } from "@/Components/ui/card";
+
 import { Badge } from '@/Components/ui/badge';
 import { Button } from '@/Components/ui/button';
 // ...existing code...

@@ -42,10 +42,10 @@ export default function AboutSection() {
           className="text-center mb-16"
         >
           <Badge variant="outline" className="mb-4 px-4 py-2 text-blue-400 border-blue-400/30">
-            About Me - TEST VERSION
+            About Me 
           </Badge>
           <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-white to-slate-300 bg-clip-text text-transparent">
-            Passionate Full Stack Developer - UPDATED
+            Passionate Full Stack Developer
           </h2>
           <p className="text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed">
             With expertise in C#, ASP.NET Core, and modern web technologies, I create robust, 

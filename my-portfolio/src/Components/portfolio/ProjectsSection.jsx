@@ -139,17 +139,7 @@ export default function ProjectsSection() {
                           Code
                         </a>
                       </Button>
-                      <Button
-                        variant="outline"
-                        size="sm"
-                        className="border-blue-600 hover:bg-blue-700 text-blue-300 flex-1"
-                        asChild
-                      >
-                        <a href={project.demo} target="_blank" rel="noopener noreferrer">
-                          <ExternalLink className="w-4 h-4 mr-2" />
-                          Demo
-                        </a>
-                      </Button>
+                      
                     </div>
                   </CardContent>
                 </Card>
